@@ -19,7 +19,7 @@ export default class Header extends Component {
                 <div className="row banner">
                   <div className="banner-text">
                     <h1 className="responsive-headline">I'm Michael Castellon.</h1>
-                    <h3>I'm a Full Stack Web Developer that specializes in HTML, CSS, JavaScript, React, and Ruby on Rails. Lets turn your vision into reality. To learn more <a className="smoothscroll" href="#about">about me</a> start scrolling.</h3>
+                    <h3>Full Stack Web Developer based out of Miami, FL. To learn more about me click below</h3>
                     <hr />
                     <ul className="social">
                       <li><a href="https://www.linkedin.com/in/michael-castellon/"><i className="fa fa-linkedin" /></a></li>
